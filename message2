@@ -1,0 +1,7 @@
+VTJGc2RHVmtYMTgxcXJWbWFGaENGcVh2YUVCTmVPUjZhTXhkQTR1SUZRYw
+
+this is an encrypted cipher
+use decryption 64
+then you need a key
+it can be found in Shakespeare's "Hamlet", the 4th word of Polonius in the second act (in Russian)
+use this key with symmetric byte-key decryption
